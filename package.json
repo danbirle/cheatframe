@@ -1,0 +1,26 @@
+{
+  "name": "cheatframe",
+  "version": "1.0.0",
+  "description": "inject pieces of wireframes with reduced opacity in the browser",
+  "main": "index.js",
+  "dependencies": {
+    "gulp": "^3.9.1"
+  },
+  "devDependencies": {
+    "gulp-sass": "^3.1.0",
+    "sass": "^0.5.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danbirle/cheatframe.git"
+  },
+  "author": "danbirle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danbirle/cheatframe/issues"
+  },
+  "homepage": "https://github.com/danbirle/cheatframe#readme"
+}
